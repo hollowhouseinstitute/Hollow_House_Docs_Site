@@ -1,3 +1,17 @@
-# Hollow House Institute Documentation
+# Hollow House Documentation Site
 
-Welcome to the official documentation repository for the Hollow House Institute.
+Official documentation repository for Hollow House Institute.
+
+This repository contains:
+- Operational protocols
+- Research papers
+- Legal notices & licensing
+- Public documentation
+- Glossary and reference materials
+
+## Structure
+- /docs → All written documentation
+- /assets → Images, diagrams, downloads
+- /site → Optional web assets (CSS/JS)
+
+Maintained by Hollow House Institute.
