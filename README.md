@@ -1,6 +1,7 @@
 [![Governed by Hollow House Institute](https://img.shields.io/badge/Governed%20by-Hollow%20House%20Institute-black?style=flat-square)](https://github.com/hollowhouseinstitute/Hollow_House_Institute)
 
-# Hollow House Documentation Site
+# H![Status](https://img.shields.io/badge/Status-STABLE-grey?style=flat-square)
+ollow House Documentation Site
 
 Official documentation repository for Hollow House Institute.
 ## Repository Role
